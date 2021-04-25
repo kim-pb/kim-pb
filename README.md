@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kim-pb
+- 👋 Hi, I’m @kim-pb (Peter.B.Kim) 
 - 👀 I’m interested in conflict studies, united nations, and humanitarian aids.
 - 🌱 I’m currently learning stata, python, R and GIS. 
 - 💞️ I’m looking to collaborate on anything related above. 
